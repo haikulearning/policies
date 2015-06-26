@@ -143,4 +143,3 @@ Haiku Learning may modify or update this Privacy Policy from time to time, so yo
 _This Privacy Policy was last modified on July 1, 2015._
 
 Copyright 2006-2015, Haiku Learning Systems, Inc. All rights reserved.
-
