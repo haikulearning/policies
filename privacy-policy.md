@@ -1,3 +1,8 @@
+---
+layout: remove-header-and-footer
+title: Privacy Policy
+body-classes: narrow
+---
 
 # Haiku Learning Commitment to Your Privacy 
 
