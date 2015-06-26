@@ -1,48 +1,31 @@
----
-layout: remove-header-and-footer
-title: Terms of Service
-body-classes: narrow
----
-<div class="lo-flood no-background">
-	<div class="lo-content">
-		<h2>
-			Terms for Individual Subscriber Accounts
-		</h2>
-		<p>
-			By using the haikulearning.com, myhaikuclass.com and web sites driven by the Haiku Learning software (the "Service"), a service of Haiku Learning Systems, Inc. (Haiku Learning), you and the users of this service are agreeing to be bound by the following terms and conditions ("Terms of Service").
-		</p>
-		<p>
-			Haiku Learning reserves the right to update and change the Terms of Service from time to time without notice. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to the Terms of Service. Continued use of the Service after any such changes shall constitute your consent to such changes. You can review the most current version of the Terms of Service at any time at: <a href="/terms" target="_blank">http://www.haikulearning.com/terms</a>.
-		</p>
-		<p>
-			Violation of any of these agreements will result in the termination of your account. You agree to use the Service at your own risk and understand that Haiku Learning cannot be and is not responsible for any information or data posted by users ("Content") posted on the Service and you nonetheless may be exposed to such materials.
-		</p>
-		<h3>
-			Service:
-		</h3>
-		<p>
-			This Service provides users with online access to information such as assignments and student grades, as well as acting as a communications medium to facilitate interaction between educators/teachers, students, and parents. The teacher determines the scope and nature of the information to make available to students and parents through the Service.
-		</p>
-		<h3>
-			Account Terms:
-		</h3>
-		<ol>
-			<li>You must be 13 years or older to use this Service.</li>
-			<li>If a child is under the age of 13, a parent or legal guardian MUST signup for an account under the parent's name. Any personal information identified with the student (such as: email address, first and last name) that we collect is therefore collected from the Parent or Legal Guardian.</li>
-			<li>You must be a human. Accounts registered by "bots" or other automated methods are not permitted.</li>
-			<li>You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process.</li>
-			<li>You are responsible for maintaining the security of your account and password. Haiku Learning cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.</li>
-			<li>You are responsible for all Content posted and activity that occurs under your account.</li>
-			<li>You may not use the Service for any illegal or unauthorized purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws).</li>
-			<li>You agree to receive periodic emails from Haiku Learning announcing new features, upgrades or important announcements about our service.</li>
-		</ol>
-		<h3>
-			Payment, Refunds, Upgrading and Downgrading Terms for Individual paid accounts:
-		</h3>
-		<ol>
-			<li>A valid credit card is required for individual paying accounts. Free and corporate accounts are not required to provide a credit card number.</li>
-			<li>The Service is billed in advance on a monthly basis and is non-refundable. There will be no refunds or credits for partial months of service, or refunds for months unused with an open account. In order to treat everyone equally, no exceptions will be made.</li>
-			<li>All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties, excluding only United States (federal or state) taxes.</li>
+
+
+# Terms for Individual Subscriber Accounts
+
+By using the haikulearning.com, myhaikuclass.com and web sites driven by the Haiku Learning software (the "Service"), a service of Haiku Learning Systems, Inc. (Haiku Learning), you and the users of this service are agreeing to be bound by the following terms and conditions ("Terms of Service").
+
+Haiku Learning reserves the right to update and change the Terms of Service from time to time without notice. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to the Terms of Service. Continued use of the Service after any such changes shall constitute your consent to such changes. You can review the most current version of the Terms of Service at any time at: <a href="/terms" target="_blank">http://www.haikulearning.com/terms</a>.
+
+Violation of any of these agreements will result in the termination of your account. You agree to use the Service at your own risk and understand that Haiku Learning cannot be and is not responsible for any information or data posted by users ("Content") posted on the Service and you nonetheless may be exposed to such materials.
+
+## Service:
+This Service provides users with online access to information such as assignments and student grades, as well as acting as a communications medium to facilitate interaction between educators/teachers, students, and parents. The teacher determines the scope and nature of the information to make available to students and parents through the Service.
+
+##	Account Terms:
+
+* You must be 13 years or older to use this Service.</li>
+* If a child is under the age of 13, a parent or legal guardian MUST signup for an account under the parent's name. Any personal information identified with the student (such as: email address, first and last name) that we collect is therefore collected from the Parent or Legal Guardian.
+* You must be a human. Accounts registered by "bots" or other automated methods are not permitted.
+* You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process.</li>
+* You are responsible for maintaining the security of your account and password. Haiku Learning cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+* You are responsible for all Content posted and activity that occurs under your account.</li>
+* You may not use the Service for any illegal or unauthorized purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws).</li>
+* You agree to receive periodic emails from Haiku Learning announcing new features, upgrades or important announcements about our service.</li>
+
+##	Payment, Refunds, Upgrading and Downgrading Terms for Individual paid accounts:
+* A valid credit card is required for individual paying accounts. Free and corporate accounts are not required to provide a credit card number.</li>
+* The Service is billed in advance on a monthly basis and is non-refundable. There will be no refunds or credits for partial months of service, or refunds for months unused with an open account. In order to treat everyone equally, no exceptions will be made.</li>
+* All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties, excluding only United States (federal or state) taxes.</li>
 			<li>For any upgrade or downgrade in individual account plan level, your credit card that you provided will automatically be charged the new rate on your next billing cycle.</li>
 			<li>Downgrading your Service may cause the loss of Content, features, or capacity of your account. Haiku Learning does not accept any liability for such loss.</li>
 			<li>
