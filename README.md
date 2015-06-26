@@ -1,1 +1,1 @@
-Haiku Learning Privacy Policy
+Haiku Learning Terms of Service and Privacy Policy
