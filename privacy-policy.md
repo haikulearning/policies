@@ -18,14 +18,14 @@ By submitting personal information through our Sites, Apps, or Services, you exp
 
 ## TABLE OF CONTENTS 
 
-1. How We Collect and Use Your Information
-2. How We Share Your Information
-3. How We Store and Protect Your Information
-4. Your Choices About Your Information
-5. Children’s Privacy
-6. Links to Other Websites and Services
-7. How to Contact Us
-8. Changes to Our Privacy Policy
+[1. How We Collect and Use Your Information](#1.-how-we-collect-and-use-your-information)
+[2. How We Share Your Information](#2.-how-we-share-your-information)
+[3. How We Store and Protect Your Information](#3.-how-we-store-and-protect-your-information)
+[4. Your Choices About Your Information](#4.-your-choices-about-your-information)
+[5. Children’s Privacy](#5.-children's-privacy)
+[6. Links to Other Websites and Services](#6.-links-to-other-websites-and-services)
+[7. How to Contact Us](#7.-how-to-contact-us)
+[8. Changes to Our Privacy Policy](#8-changes-to-our-privacy-policy)
 
 ### We are dedicated to being transparent in our data collection and use practices. 
 
@@ -50,7 +50,7 @@ By submitting personal information through our Sites, Apps, or Services, you exp
 
 __Questions About Student Data:__ If you are a student or parent, please contact your School if you have questions about the School’s use of technology service providers such as Haiku Learning. If a student contacts Haiku Learning with a question about our Services, we will collect personal information from that student only as necessary to respond to the student’s request and direct the student to contact the student’s School.
 
-See [How We Share Your Information]() below for more information on the limited ways in which we share School and Student Data. See [Children’s Privacy]() below for more information on how we collect and use the personal information of children under 13.
+See [How We Share Your Information](#2.-how-we-share-your-information) below for more information on the limited ways in which we share School and Student Data. See [Children’s Privacy](#5.-children's-privacy) below for more information on how we collect and use the personal information of children under 13.
 
 ## 2. HOW WE SHARE YOUR INFORMATION
 
@@ -58,7 +58,7 @@ Haiku Learning only shares your personal information in a few limited circumstan
 
 ### With Whom We May Share Information:
 
-* We may share information with third parties that provide us with technology services (“Service Providers”), strictly for the purpose of carrying out their work for us (e.g., web hosting and analytics services) and which are bound by contractual obligations to keep personal information confidential.  See [Service Providers]() list below.
+* We may share information with third parties that provide us with technology services (“Service Providers”), strictly for the purpose of carrying out their work for us (e.g., web hosting and analytics services) and which are bound by contractual obligations to keep personal information confidential.  See [Service Providers](#haiku-learning-service-providers) list below.
 * We may be required to share information with law enforcement or other third parties when compelled to do so by court order or other legal process, to comply with statutes or regulations, to enforce our [Terms of Service](http://www.haikulearning.com/terms), or if we believe in good faith that the disclosure is necessary to protect the rights, property or personal safety of our users.
 
 In the event of a change of control: If we sell, divest or transfer our business, we will not transfer personal information of our customers unless the new owner intends to maintain and provide the Services as a going concern, and provided that the new owner has agreed to data privacy standards no less stringent than our own. In such case we will provide you with notice and an opportunity to opt-out of the transfer of Student Data.
@@ -143,7 +143,7 @@ If you have any questions about this Privacy Policy or Haiku Learning, please co
 
 ## 8. CHANGES TO THIS PRIVACY POLICY
 
-Haiku Learning may modify or update this Privacy Policy from time to time, so you should review this page periodically. The date that this Privacy Policy was last updated is identified at the bottom of this page. Click [here](needs link) to see all previous changes to this Privacy Policy. If we make a material change to this Privacy Policy with respect to how we collect and use your personal information, we will provide at least 30 days’ prior written notice to you by email to the email address specified in your account, if you have one, so that you have sufficient time to evaluate the change, and you can choose to opt-out by deleting your Haiku Learning account before the change takes effect. You are responsible for ensuring that we have an up-to-date, active and deliverable email address for you and for periodically visiting this Privacy Policy to check for any changes.
+Haiku Learning may modify or update this Privacy Policy from time to time, so you should review this page periodically. The date that this Privacy Policy was last updated is identified at the bottom of this page. Click [here](https://github.com/haikulearning/policies/releases) to see all previous changes to this Privacy Policy. If we make a material change to this Privacy Policy with respect to how we collect and use your personal information, we will provide at least 30 days’ prior written notice to you by email to the email address specified in your account, if you have one, so that you have sufficient time to evaluate the change, and you can choose to opt-out by deleting your Haiku Learning account before the change takes effect. You are responsible for ensuring that we have an up-to-date, active and deliverable email address for you and for periodically visiting this Privacy Policy to check for any changes.
 
 _This Privacy Policy was last modified on July 1, 2015._
 
