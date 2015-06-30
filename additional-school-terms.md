@@ -27,7 +27,7 @@ You authorize us to access Student Data and will provide a way for us access the
 
 ### 2.2 Third Party Access
 
-You may designate one or more third-party Developers (as defined in the General Terms of Service) to securely access Student Data via our API. We will not send Student Data to a Developer unless explicitly authorized by you. You acknowledge that we are not responsible for the data practices of third party Developers, and that, as between us, you are solely responsible for the consequences of providing or transmitting Student Data to such Developers, or authorizing those Developers to access Student Data through the Services. At any time, you can revoke any Developer’s ongoing access to Student Data via the API by contacting us at support@haikulearning.com.
+You may designate one or more third-party Developers (as defined in the General Terms of Service) to securely access Student Data via our API. We will not send Student Data to a Developer unless explicitly authorized by you. You acknowledge that we are not responsible for the data practices of third party Developers, and that, as between us, you are solely responsible for the consequences of providing or transmitting Student Data to such Developers, or authorizing those Developers to access Student Data through the Services. At any time, you can revoke any Developer’s ongoing access to Student Data via the API by contacting us at privacy@haikulearning.com.
 
 Should a third party Developer revoke or terminate rights to license or utilize their service, you agree to defend, indemnify and hold harmless Haiku Learning and its subsidiaries, agents, licensors, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising from the revocation or termination.  Should the Service be a Premium product purchased from Haiku Learning as an “add-on” Service,  Haiku Learning will provide you a pro-rata refund for the Premium service from the date of the termination, but is not liable beyond the pro-rata refund amount for any damages whatsoever, whether direct, indirect, incidental, consequential, special or otherwise, or for any lost profits or lost savings arising out of this agreement, even if advised of the same.
 
@@ -49,7 +49,7 @@ You agree that we may collect and use data derived from Student Data, including 
 ## 4. DELETING STUDENT DATA AND TERMINATING YOUR ACCESS TO THE SERVICES
 ### 4.1 Deleting Student Data
 
-You may request in writing that we delete any of your Student Data (except as provided for the Section 3.2 above) in our possession at any time. We will comply with your request in a commercially reasonable time, not to exceed thirty (30) business days. If you grant access to Student Data to a Developer and subsequently need that data deleted, you need to request such deletion directly from that Developer.
+You may request in writing that we delete any of your Student Data (except as provided for in [Section 3.2](#3.2-anonymized-data) above) in our possession at any time. We will comply with your request in a commercially reasonable time, not to exceed thirty (30) business days. If you grant access to Student Data to a Developer and subsequently need that data deleted, you need to request such deletion directly from that Developer.
 
 ### 4.2 Terminating Your Access To These Services
 
