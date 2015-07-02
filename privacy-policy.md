@@ -75,7 +75,7 @@ Below is a list of Service Providers that provide us with technology services an
 
 The Haiku Learning website and Service has industry standard security measures in place to protect the loss, misuse, and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all reasonable steps to insure the safety of your information. Although Haiku Learning owns the data storage, databases and all rights to the HAIKU application, you retain all rights to your data, and we will never sell or share your client data with any third-parties, or use your data for our own business advantage. We respect the privacy of our subscribers and the privacy of their data.
 
-#### <a name="haiku-learning-service-providers"></a>Service Providers (3rd parties utilized by Haiku Learning Services):
+#### Service Providers (3rd parties utilized by Haiku Learning Services):
 
 * [Amazon S3](http://aws.amazon.com/privacy/) - All permanent files uploaded to Haiku Learning, including any personal information contained in those files, are stored via our Amazon S3 account. No other personal information is provided to Amazon. 
 * [Crocodoc](https://crocodoc.com/privacy-policy/) - Crocodoc serves as Haiku Learning’s Dropbox Annotator. Files submitted by students to the Haiku Learning Dropbox are eligible to be sent to Crocodoc, although the documents do not actually get processed until a teacher opens the file in the annotator. Teachers have the option to download files instead of viewing files in the annotator.
