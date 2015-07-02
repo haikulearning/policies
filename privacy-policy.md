@@ -66,12 +66,12 @@ Haiku Learning only shares your personal information in a few limited circumstan
 
 ### With Whom We May Share Information:
 
-* We may share information with third parties that provide us with technology services (“Service Providers”), strictly for the purpose of carrying out their work for us (e.g., web hosting and analytics services) and which are bound by contractual obligations to keep personal information confidential.  See [Service Providers](#service-providers) list below.
+* We may share information with third parties that provide us with technology services (“Service Providers”), strictly for the purpose of carrying out their work for us (e.g., web hosting and analytics services) and which are bound by contractual obligations to keep personal information confidential.  See the [Haiku Learning Service Providers](#haiku-learning-service-providers) list below.
 * We may be required to share information with law enforcement or other third parties when compelled to do so by court order or other legal process, to comply with statutes or regulations, to enforce our [Terms of Service](http://www.haikulearning.com/terms), or if we believe in good faith that the disclosure is necessary to protect the rights, property or personal safety of our users.
 
 In the event of a change of control: If we sell, divest or transfer our business, we will not transfer personal information of our customers unless the new owner intends to maintain and provide the Services as a going concern, and provided that the new owner has agreed to data privacy standards no less stringent than our own. In such case we will provide you with notice and an opportunity to opt-out of the transfer of Student Data.
 
-### # Haiku Learning Service Providers # {#service-providers}
+### <a name="haiku-learning-service-providers"></a>Haiku Learning Service Providers
 
 Below is a list of Service Providers that provide us with technology services and with which data is shared. This list covers the major service providers utilized by Haiku Learning, but may not be comprehensive.  For questions about Haiku Learning Service Providers, please contact us at [privacy@haikulearning.com](mailto:privacy@haikulearning.com).
 
