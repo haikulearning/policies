@@ -37,6 +37,7 @@ By submitting personal information through our Sites, Apps, or Services, you exp
 ### We are dedicated to being transparent in our data collection and use practices. 
 
 ## 1.  # HOW WE COLLECT AND USE YOUR INFORMATION # {#how-we-collect-and-use-your-information}
+
 ### Information We May Collect:
 
 * Haiku Learning may collect your name, school name, school district, email address, account name and password, phone number, avatar, message content, and other information relating to the School’s Information System(s), such as a student identification number and parent-child relationships.
