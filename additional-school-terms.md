@@ -4,10 +4,14 @@ title: Additional School Terms of Service
 body-classes: narrow
 ---
 
+[privacy-policy]: https://www.haikulearning.com/privacy
+[general-terms]: http://www.haikulearning.com/terms
+[additional-school-terms]: http://www.haikulearning.com/additional-school-terms
+
 # Haiku Learning Additional Terms of Service for Schools
 _Effective Date: July 1, 2015_
 
-Welcome to Haiku Learning’s Additional Terms of Service for Schools (the “Additional Terms”). If you are a School, please also review our [General Terms of Service](http://www.haikulearning.com/terms) and our [Privacy Policy](http://www.haikulearning.com/privacy). If you’re not a School (as defined in our [General Terms of Service](http://www.haikulearning.com/terms)), these Additional Terms do not apply to you.
+Welcome to Haiku Learning’s Additional Terms of Service for Schools (the “Additional Terms”). If you are a School, please also review our [General Terms of Service][general-terms] and our [Privacy Policy][privacy-policy]. If you’re not a School (as defined in our [General Terms of Service][general-terms]), these Additional Terms do not apply to you.
 
 Capitalized terms that are not defined below have the definitions given them in the General Terms of Service.
 
@@ -15,7 +19,7 @@ By using the Services, you authorize us to access your Student Information Syste
 
 ## 1. KEEPING YOUR STUDENT DATA CONFIDENTIAL (THIS IS VERY IMPORTANT TO US) AND COMPLYING WITH APPLICABLE LAWS
 
-We maintain the confidentiality of your Student Data and do not knowingly share it with third parties other than as described in Section 2.2 and in the [General Terms of Service](http://www.haikulearning.com/terms) and our [Privacy Policy](http://www.haikulearning.com/privacy).
+We maintain the confidentiality of your Student Data and do not knowingly share it with third parties other than as described in Section 2.2 and in the [General Terms of Service][general-terms] and our [Privacy Policy][privacy-policy].
 
 Both parties agree to uphold their responsibilities under the Family Educational Rights and Privacy Act (“FERPA”), the Protection of Pupil Rights Amendment (“PPRA”), and the Children’s Online Privacy Protection Act (“COPPA”). We provide the Services as an outsourced institutional function under FERPA 34 CFR Part 99.31(a)(1). COPPA requires that online service providers obtain clear and verifiable parental or legal guardian consent before collecting personal information from children under the age of 13. You represent and warrant that you have received consent from parents or legal guardians, or have the authority to provide consent on behalf of parents or legal guardians, for us to collect information from students before allowing children under the age of 13 to access our Services. We recommend that all Schools provide appropriate disclosures to students and parents regarding their use of service providers such as Haiku Learning and that they provide a copy of our Privacy Policy to parents and legal guardians.
 
@@ -41,7 +45,7 @@ Student Data is controlled by Schools, and we will not permit anyone else to del
 
 ### 3.1 In General
 
-By submitting Student Data or other information to us, whether via the Services or otherwise, you expressly grant, and you represent and warrant that you have all rights necessary to grant, to us a nonexclusive, royalty-free, worldwide license during the term of these Additional Terms and our [General Terms of Service](http://www.haikulearning.com/terms) to use, transmit, distribute, modify, reproduce, display, and store the Student Data only for the purposes of: (i) providing the Services as contemplated in these Additional Terms and our [General Terms of Service](http://www.haikulearning.com/terms), and (ii) enforcing our rights under these Additional Terms and our [General Terms of Service](http://www.haikulearning.com/terms). We will not use the Student Data for any purpose except as explicitly authorized by these Additional Terms and our [General Terms of Service](http://www.haikulearning.com/terms).  For clarity and without limitation, we will not use Student Data to engage in targeted advertising.
+By submitting Student Data or other information to us, whether via the Services or otherwise, you expressly grant, and you represent and warrant that you have all rights necessary to grant, to us a nonexclusive, royalty-free, worldwide license during the term of these Additional Terms and our [General Terms of Service][general-terms] to use, transmit, distribute, modify, reproduce, display, and store the Student Data only for the purposes of: (i) providing the Services as contemplated in these Additional Terms and our [General Terms of Service][general-terms], and (ii) enforcing our rights under these Additional Terms and our [General Terms of Service][general-terms]. We will not use the Student Data for any purpose except as explicitly authorized by these Additional Terms and our [General Terms of Service][general-terms].  For clarity and without limitation, we will not use Student Data to engage in targeted advertising.
 
 ### 3.2 Anonymized Data
 
@@ -55,9 +59,9 @@ You may request in writing that we delete any of your Student Data (except as pr
 
 ### 4.2 Terminating Your Access To These Services
 
-Schools may, at any time and for any or no reason, terminate these Additional Terms and our [General Terms of Service](http://www.haikulearning.com/terms) by providing written notice to [terms@haikulearning.com](mailto:terms@haikulearning.com), except that provisions that by their nature should survive termination will survive termination, such as provisions relating to warranty disclaimers, limitations of liability, indemnities, and governing law.
+Schools may, at any time and for any or no reason, terminate these Additional Terms and our [General Terms of Service][general-terms] by providing written notice to [terms@haikulearning.com](mailto:terms@haikulearning.com), except that provisions that by their nature should survive termination will survive termination, such as provisions relating to warranty disclaimers, limitations of liability, indemnities, and governing law.
 
-We will automatically delete or de-identify all Student Data and remove Your Content within 30 days of our receipt of the termination notice, except for Student Data and Your Content residing on backups or internal logs, which will be removed within sixty (60) days. As noted above, Student Data that has previously been made available to Developers may still be in Developers’ possession notwithstanding the School’s termination of these Additional Terms and our [General Terms of Service](http://www.haikulearning.com/terms), and the Developer’s subsequent use or deletion will be governed by any agreements between School and Developers. We may terminate these Additional Terms and our [General Terms of Service](http://www.haikulearning.com/terms) in accordance with the [General Terms of Service](http://www.haikulearning.com/terms).
+We will automatically delete or de-identify all Student Data and remove Your Content within 30 days of our receipt of the termination notice, except for Student Data and Your Content residing on backups or internal logs, which will be removed within sixty (60) days. As noted above, Student Data that has previously been made available to Developers may still be in Developers’ possession notwithstanding the School’s termination of these Additional Terms and our [General Terms of Service][general-terms], and the Developer’s subsequent use or deletion will be governed by any agreements between School and Developers. We may terminate these Additional Terms and our [General Terms of Service][general-terms] in accordance with the [General Terms of Service][general-terms].
 
 Should Haiku Learning discontinue, temporarily or permanently, the Service, we will notify you in writing at least thirty (30) days prior to the proposed date of the discontinuation of the Service. In such case, Haiku Learning will make a best effort to assist you with making Content available for export from that point until the date of discontinuance of the Service.
 
@@ -71,10 +75,10 @@ Haiku Learning charges a late fee of 2% per month for any unpaid balance more th
 
 If your total file space used exceeds the amount stated by contract, you may be charged additional storage fees.
 
-Other than taxes levied on Haiku Learning’s net income, you agrees to pay any and all taxes and duties arising from this Agreement. 
+Other than taxes levied on Haiku Learning’s net income, you agrees to pay any and all taxes and duties arising from this Agreement.
 
 ## 7. QUESTIONS
 
-We here at Haiku Learning hope that you will have the best possible experience when using our Services. If you have any questions or concerns about our Services or anything in our [General Terms of Service](http://www.haikulearning.com/terms), these Additional Terms, or our [Privacy Policy](http://www.haikulearning.com/privacy), please don’t hesitate to contact us at [terms@haikulearning.com](mailto:terms@haikulearning.com) and we’ll do our best to promptly respond to you.
+We here at Haiku Learning hope that you will have the best possible experience when using our Services. If you have any questions or concerns about our Services or anything in our [General Terms of Service][general-terms], these Additional Terms, or our [Privacy Policy][privacy-policy], please don’t hesitate to contact us at [terms@haikulearning.com](mailto:terms@haikulearning.com) and we’ll do our best to promptly respond to you.
 
 
