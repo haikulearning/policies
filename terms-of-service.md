@@ -18,7 +18,8 @@ These General Terms of Service (the “Agreement”) applies to all schools, sch
 
 By accessing or using the Sites, Apps and/or Services, checking the box marked [“I Agree”], or by otherwise affirmatively stating your desire to use our Sites, Apps and/or Services, you signify that you have read, understood, and agree to be bound by this Agreement and to the collection and use of your information as set forth in the [Haiku Learning Privacy Policy][privacy-policy], otherwise you may not use or access the Sites, Apps and/or Services. Because our Sites, Apps and/or Services change relatively often, the terms in this Agreement and our Privacy Policy may change too. If you are a School using the Services, we will notify you via email in advance of any material changes to the terms. Upon making changes, we will update the “Effective Date” found at the top of this page. Your continued use of the Sites, Apps and/or Services after any changes constitutes your acceptance of the new terms.  Please note that these terms include a class action waiver and waiver of jury trials, and require binding arbitration on an individual basis to resolve disputes.
 
-## 1. WHAT ARE HAIKU LEARNING’S SERVICES AND WHO CAN USE THEM?
+## 1. WHAT ARE HAIKU LEARNING’S SERVICES AND WHO CAN USE THEM? <a name="our-services"></a>
+[our-services]: #our-services
 
 What do we do? We provide Schools with the ability to easily create digital learning spaces where teachers, students and parents can interact in the learning experience, in addition to giving schools the ability to integrate software applications provided by other providers or created by developers (“Developers”) used by their teachers and students.
 
@@ -28,7 +29,8 @@ If you are under the age of 13, and responding to an invite to sign up for a stu
 
 Subject to the terms and conditions of this Agreement, we grant you a non-exclusive, limited, non-transferable, freely revocable license to use the Sites, Apps and/or Services. We reserve all rights not expressly granted to you under the terms of this Agreement in the Sites, Apps and/or Services and the Haiku Learning Content (as defined below).
 
-### 1.1 Details about the Haiku Learning Sites, Apps and/or Services
+### 1.1 Details about the Haiku Learning Sites, Apps and/or Services <a name="our-services-in-detail"></a>
+[our-services-in-detail]: #our-services-in-detail
 
 Your Haiku Learning account gives you access to our Sites, Apps and/or Services, but you should not sign up on behalf of a School if you do not have the requisite authority to do so. Once you sign up, you are responsible for your account and any data associated with it.
 
@@ -37,11 +39,13 @@ Your Haiku Learning account gives you access to the Sites, Apps and/or Services 
 Remember: you are responsible for any activity that occurs on your account, you may never use someone else’s account without permission, and you must keep your account password secure. We recommend using “strong” passwords (passwords that use a combination of upper and lower case letters, numbers and symbols) with your account to avoid unauthorized use. Please let us know immediately if you think your account’s security has been compromised; we are not liable for any losses of any kind caused by any unauthorized use of your account.
 
 
-###	1.2 What Control Do I Have Over My Use of the Services?
+###	1.2 What Control Do I Have Over My Use of the Services? <a name="your-control"></a>
+[your-control]: #your-control
 
 You may control your profile and how you interact with the Sites, Apps and/or Services by changing the settings in your settings page. By providing your email address to us, you consent to our using the email address to send you Sites, Apps and/or Services-related notices, including any required legal notices and other messages, such as additions or changes to the Sites, Apps and/or Services and/or notices of product offers. You may opt out or change your preferences in your settings page. While we need your email address to send you important Sites, Apps and/or Services-related notices, you can always ask us to stop sending you certain marketing messages. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.
 
-### 1.3 Restricted Uses
+### 1.3 Restricted Uses <a name="restricted-uses"></a>
+[restricted-uses]: #restricted-uses
 
 You must not do anything to harm our product or try to hack our service. Specifically, by using the Sites, Apps and/or Services, you agree not to do any of these things: (i) copy, distribute, or disclose any part of the Sites, Apps and/or Services in any medium, including but not limited to by any automated or non-automated “scraping”; (ii) use any automated system, including but not limited to “robots,” “spiders,” “offline readers,” etc., to access the Sites, Apps and/or Services in a manner that sends more request messages to the Haiku Learning servers than a human can reasonably produce in the same period of time by using a conventional online web browser; (iii) transmit spam, chain letters, or other unsolicited email; (iv) attempt to interfere with, compromise the system integrity or security or decipher any transmissions to or from the servers running the Sites, Apps and/or Services; (v) take any action that imposes, or may impose, an unreasonable or disproportionately large load on our infrastructure; (vi) upload invalid data, viruses, worms, or other software agents through the Sites, Apps and/or Services; (vii) collect or harvest any third-party personally identifiable information, including account names or Student Data (as defined below), from the Sites, Apps and/or Services; (viii) use the Sites, Apps and/or Services for any commercial solicitation purposes; (ix) impersonate another person or otherwise misrepresent your affiliation with a person or entity, conduct fraud, hide or attempt to hide your identity; (x) interfere with the proper working of the Sites, Apps and/or Services; (xi) access any content on the Sites, Apps and/or Services through any technology or means other than those provided or authorized by the Sites, Apps and/or Services; or (xii) bypass the measures we use to prevent or restrict access to the Sites, Apps and/or Services, including but not limited to features that prevent or restrict use or copying of any content or enforce limitations on use of the Sites, Apps and/or Services or related content.  We may terminate your license at any time for any actions we deem as harmful, including but not limited to the items listed above.
 
@@ -49,7 +53,8 @@ We regularly update our Sites, Apps and/or Services to offer the best possible p
 
 You are fully responsible for your interactions with other Users, and we have no liability for your interactions with any other Users, or for any User’s actions or inactions with respect to you.
 
-## 2. RIGHTS IN OUR CONTENT
+## 2. RIGHTS IN OUR CONTENT <a name="content-rights"></a>
+[content-rights]: #content-rights
 
 “Student Data” is any information (in any format) that is directly related to any identifiable current or former student that is maintained by a School, and may include “educational records” as defined by the Family Educational Rights and Privacy Act (“FERPA”). While we may need to access Student Data to provide the Sites, Apps and/or Services to you, between us, you are the exclusive owner of the Student Data and remain responsible for it. You grant us a limited, nonexclusive license to Student Data solely for the purpose of performing our obligations under this Agreement. You grant us a limited, nonexclusive license to Student Data solely for the purpose of performing our obligations under this Agreement. Our Additional Terms of Service for Schools and Privacy Policy provide more detail concerning how we handle Student Data.
 
@@ -67,28 +72,34 @@ If you send us ideas or comments about our Sites, Apps and/or Services, you agre
 
 If you believe that your work has been copied and posted on our Sites, Apps and/or Services in a way that constitutes copyright infringement, send the following information to [terms@haikulearning.com](mailto:terms@haikulearning.com): (1) an electronic signature of the person authorized to act on behalf of the owner of the copyright interest; (2) a description of the way in which the copyrighted work has been infringed; (3) a description and a location of the content that you claim is infringing; (4) your address, telephone number and e-mail address; (5) a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law; and (6) a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
 
-## 3. GENERAL LEGAL TERMS
+## 3. GENERAL LEGAL TERMS <a name="general-legal-terms"></a>
+[general-legal-terms]: #general-legal-terms
 
-### 3.1 Haiku Learning Data
+### 3.1 Haiku Learning Data <a name="haiku-learning-data"></a>
+[haiku-learning-data]: #haiku-learning-data
 
 Certain parts of the Sites, Apps and/or Services may allow you to obtain or access analytics or other data or information associated with your account (“Haiku Learning Data”). Haiku Learning Data is licensed to you for your use on a limited basis, and is governed solely by the terms of this Agreement and available for distribution only at our sole discretion. Haiku Learning owns the account you use to access the Sites, Apps and/or Services along with any rights of access or rights to data stored by or on behalf of Haiku Learning on Haiku Learning servers (except with respect to any Student Data or Your Content that we may be storing for you), including but not limited to any data representing any or all of your Haiku Learning Data. Haiku Learning has the right to manage, control and even eliminate Haiku Learning Data, except that Haiku Learning may only use Student Data as specifically permitted by this Agreement.
 
 This next sentence is in all caps because it’s important: YOU UNDERSTAND AND AGREE THAT ANY DATA, ACCOUNT HISTORY AND ACCOUNT CONTENT RESIDING ON HAIKU LEARNING’S SERVERS MAY BE DELETED AT ANY TIME FOR ANY REASON IN HAIKU LEARNING’S SOLE DISCRETION, WITH OR WITHOUT NOTICE AND WITH NO LIABILITY OF ANY KIND. WE DO NOT PROVIDE OR GUARANTEE, AND EXPRESSLY DISCLAIM, ANY VALUE, CASH OR OTHERWISE, ATTRIBUTED TO ANY DATA RESIDING ON HAIKU LEARNING’S SERVERS.
 
-### 3.2 Privacy and Security
+### 3.2 Privacy and Security <a name="privacy-and-security"></a>
+[privacy-and-security]: #privacy-and-security
 
 We take very seriously the privacy of our users, including schools, teachers, parents, and students. By using the Sites, Apps and/or Services, you consent to the collection, use and disclosure of your information (including but not limited to Student Data) as set forth in our [Privacy Policy][privacy-policy] and, if you’re a School, in the [Additional Terms of Service for Schools][additional-school-terms], and to have your information (including but not limited to Student Data) collected, used, transferred to and processed in the United States pursuant to our [Privacy Policy][privacy-policy].
 
-### 3.3 Third-Party Services
+### 3.3 Third-Party Services <a name="3rd-parties"></a>
+[3rd-party-services]: #3rd-parties
 
 Our website may contain links to third-party websites, services (including but not limited to third-party applications), or other materials or information that are not owned or controlled by us. When you click on a link to a third-party website, we will not warn you that you have left the Haiku Learning Site, App or Service and are subject to separate terms and conditions and/or privacy policies.  Keep in mind that we do not endorse or assume any responsibility for any third-party sites, information, materials, products, or services (including but not limited to third-party applications). If you access a third party website or application from the Sites, Apps and/or Services, you understand that you do so at your own risk, and you understand that this Agreement, the [Additional Terms of Service for Schools][additional-school-terms], and our [Privacy Policy][privacy-policy] do not apply to your use of those sites or applications, and that those sites or applications have their own applicable terms and policies. Additionally, your dealings with Developers found on the Sites, Apps and/or Services, including payment and any other terms (such as warranties or privacy policies), are only between you and such Developers. We are not responsible for any loss or damage of any sort relating to your dealings with such Developers.
 You acknowledge and agree that where Haiku Learning is listed in application stores (e.g., the Apple or Chrome application stores), the availability of the Apps and the Services is dependent on the third party from which you received the Apps.
 
-### 3.4 Indemnity
+### 3.4 Indemnity <a name="indemnity"></a>
+[indemnity]: #indemnity
 
 You agree to defend, indemnify and hold harmless Haiku Learning and its subsidiaries, agents, licensors, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising from: (i) your use of and access to the Sites, Apps and/or Services, including any data or content transmitted or received by you; (ii) your violation of any term of this Agreement, including but not limited to your breach of any representations or warranties; (iii) your violation of any third-party right, including but not limited to any right of privacy or intellectual property rights; (iv) your violation of any applicable law, rule or regulation, including but not limited to the Children’s Online Privacy Protection Act (“COPPA”); (v) any content or information that is submitted via your account; or (vi) any other party’s access and use of the Sites, Apps and/or Services with your unique username, password or other appropriate security code.
 
-### 3.5 Warranty Disclaimer
+### 3.5 Warranty Disclaimer <a name="warranty-disclaimer"></a>
+[warranty-disclaimer]: #warranty-disclaimer
 
 These next few sections are in all caps so we can be sure we have your attention. Again, please feel free to contact us at [terms@haikulearning.com](mailto:terms@haikulearning.com) if any of this is unclear or if you have any questions about what these sections mean.
 
@@ -96,7 +107,8 @@ THE SITES, APPS AND/OR SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILAB
 
 WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SITES, APPS AND/OR SERVICES ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SITES, APPS AND/OR SERVICES OR ANY HYPERLINKED WEBSITE OR SITES, APPS AND/OR SERVICES (INCLUDING WITHOUT LIMITATION APPLICATIONS), AND WE WILL NOT BE A PARTY TO OR IN ANY WAY MONITOR ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SITES, APPS AND/OR SERVICES (INCLUDING WITHOUT LIMITATION DEVELOPERS). FEDERAL LAW, SOME STATES, PROVINCES AND OTHER JURISDICTIONS DO NOT ALLOW EXCLUSIONS AND LIMITATIONS OF CERTAIN IMPLIED WARRANTIES, SO SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
 
-### 3.6 Limitation of Liability
+### 3.6 Limitation of Liability <a name="limitation-of-liability"></a>
+[limitation-of-liability]: #limitation-of-liability
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL HAIKU LEARNING, ITS AFFILIATES, AGENTS, DIRECTORS, EMPLOYEES, SUPPLIERS OR LICENSORS BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES, THAT RESULT FROM THE USE OF, OR INABILITY TO USE, THE SITES, APPS AND/OR SERVICES. UNDER NO CIRCUMSTANCES WILL HAIKU LEARNING BE RESPONSIBLE FOR ANY DAMAGE, LOSS OR INJURY RESULTING FROM HACKING, TAMPERING OR OTHER UNAUTHORIZED ACCESS OR USE OF THE SITES, APPS AND/OR SERVICES OR YOUR ACCOUNT OR THE INFORMATION CONTAINED THEREIN.
 
@@ -106,7 +118,8 @@ THIS LIMITATION OF LIABILITY SECTION APPLIES WHETHER THE ALLEGED LIABILITY IS BA
 
 The Sites, Apps and/or Services are controlled and operated from US-based facilities, and we make no representations that they’re appropriate or available for use in other locations. If you access or use the Sites, Apps and/or Services from other jurisdictions, you understand that you’re entirely responsible for compliance with all applicable United States and local laws and regulations, including but not limited to export and import regulations. You may not use the Sites, Apps and/or Services if you are a resident of a country embargoed by the United States, or are a foreign person or entity blocked or denied by the United States government.
 
-### 3.7 Arbitration
+### 3.7 Arbitration <a name="arbitration"></a>
+[arbitration]: #arbitration
 
 Please read this Section 3.7 (“Arbitration Agreement”) carefully. It is part of your contract with Haiku Learning and affects your rights. It contains procedures for MANDATORY BINDING ARBITRATION AND A CLASS ACTION WAIVER.
 
@@ -140,11 +153,13 @@ Please read this Section 3.7 (“Arbitration Agreement”) carefully. It is part
 
 (o)	Claims Not Subject To Arbitration. Notwithstanding the foregoing, claims of defamation, violation of the Computer Fraud and Abuse Act, and infringement or misappropriation of the other party’s patent, copyright, trademark, or trade secret shall not be subject to this arbitration agreement.
 
-### 3.8 Governing Law
+### 3.8 Governing Law <a name="governing-law"></a>
+[governing-law]: #governing-law
 
 This Agreement will be governed by the laws of the State of New York, without respect to its conflict of laws principles. The application of the United Nations Convention on Contracts for the International Sale of Goods does not apply.
 
-### 3.9 MISCELLANEOUS
+### 3.9 MISCELLANEOUS <a name="miscellaneous"></a>
+[miscellaneous]: #miscellaneous
 
 This Agreement, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by us in accordance with the terms of our [Privacy Policy][privacy-policy]. This Agreement, together with any amendments and any additional agreements you may enter into with Haiku Learning in connection with the Sites, Apps and/or Services, including other agreements referenced herein, constitute the entire agreement between you and Haiku Learning concerning the Sites, Apps and/or Services. If any provision of this Agreement is deemed invalid by a court of competent jurisdiction, the invalidity of such provision will not affect the validity of the remaining provisions of this Agreement, which will remain in full force and effect. No waiver of any term of this Agreement will be deemed a further or continuing waiver of such term or any other term, and Haiku Learning failure to assert any right or provision under this Agreement will not constitute a waiver of such right or provision. If access to the Sites, Apps and/or Services is licensed to the United States government or any agency thereof, then the Sites, Apps and/or Services will be deemed to be “commercial computer software” and “commercial computer software documentation,” pursuant to DFARS Section 227.7202 and FAR Section 12.212, respectively, as applicable. Any use, reproduction, release, performance, display, or disclosure of the Sites, Apps and/or Services and any accompanying documentation by the U.S. Government will be governed solely by this Agreement and is prohibited except to the extent expressly permitted by this Agreement.
 
@@ -153,7 +168,8 @@ You hereby release Haiku Learning Parties and their successors from claims, dema
 If you are a California resident, you hereby waive California Civil Code Section 1542, which states, “A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which, if known by him must have materially affected his settlement with the debtor.”
 
 
-## 4. TERMS SPECIFIC TO USERS USING OUR SOLO TEACHER ACCOUNTS
+## 4. TERMS SPECIFIC TO USERS USING OUR SOLO TEACHER ACCOUNTS <a name="solo-teacher-terms"></a>
+[solo-teacher-terms]: #solo-teacher-terms
 
 A valid credit card is required for an upgraded solo teacher account. Free solo teacher accounts are not required to provide a credit card number. Subscriptions to Sites, Apps and/or Services will be billed in advance on a monthly basis and all charges are non-refundable. There will be no refunds or credits for partial months of service, or refunds for months unused with an open account. In order to treat everyone equally, no exceptions will be made.
 
