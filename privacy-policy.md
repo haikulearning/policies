@@ -2,6 +2,8 @@
 layout: remove-header-and-footer
 title: Privacy Policy
 body-classes: narrow
+redirect_from:
+- /privacy
 ---
 
 [privacy-policy]: https://www.haikulearning.com/privacy

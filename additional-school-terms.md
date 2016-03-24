@@ -2,6 +2,8 @@
 layout: remove-header-and-footer
 title: Additional School Terms of Service
 body-classes: narrow
+redirect_from:
+- /additional-school-terms
 ---
 
 [privacy-policy]: https://www.haikulearning.com/privacy
